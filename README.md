@@ -21,7 +21,7 @@ The goal is to provide data-driven guidance for job seekers, recruiters, and mar
 ## 🔍 Data Sources & Tools
 
 - **Data source:** Job postings fact table with dimensional tables for skills, companies, and job attributes  
-- **Tech stack:** PostgreSQL / SQL for data extraction and aggregation  
+- **Tech stack:** PostgreSQL, Python, Pandas, Matplotlib
 - **Analysis scope:** Roles tagged as 'Data Analyst' and related job titles (including senior and specialized roles)  
 - **Data period:** Job postings dated 2023  
 
