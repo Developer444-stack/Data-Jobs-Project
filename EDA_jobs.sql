@@ -190,7 +190,7 @@ FROM
     march_jobs;
 
 
--- Practice Probllem
+-- Practice Problem
 SELECT  
     quater1_job_postings.job_title_short,
     quater1_job_postings.job_location,
