@@ -84,10 +84,10 @@ The goal is to provide data-driven guidance for job seekers, recruiters, and mar
    
 👨‍💻 About Me
 
-I am a Data Science professional passionate about analyzing market trends and providing actionable insights. This project reflects hands-on experience with SQL data analysis and visualization relevant to the job market.
+I am a Data Science professional passionate about analyzing market trends and providing actionable insights. This project reflects hands-on experience with advanced SQL data analysis and visualization relevant to the job market.
 
 📫 Contact
 
 Feel free to reach out:
-Email: your.email@example.com
-LinkedIn: linkedin.com/in/yourprofile
+Email: tushar.bhatia1998@gmail.com
+LinkedIn: https://www.linkedin.com/in/tushar-bhatia-b903a4185/
