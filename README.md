@@ -59,6 +59,9 @@ The goal is to provide data-driven guidance for job seekers, recruiters, and mar
 
 **Insight:** Senior-level roles dominate top salaries; specialized marketing and hybrid roles also command high pay.
 
+<img width="1089" alt="image" src="https://github.com/user-attachments/assets/9382e798-cea3-48fb-8426-b147def3f1fd" />
+
+
 ---
 
 ### 3. Job Titles & Salary Trends
@@ -66,14 +69,8 @@ The goal is to provide data-driven guidance for job seekers, recruiters, and mar
 - Job titles vary widely from entry-level Data Analyst to senior/principal/director positions.  
 - Salary ranges reflect seniority and specialization, with some outliers likely due to company-specific compensation.
 
----
+  <img width="1089" alt="image" src="https://github.com/user-attachments/assets/78782cea-0481-475e-8f78-d2afd9b6249b" />
 
-## 📈 Visualizations (Suggestions)
-
-1. **Bar Chart:** Top 5 In-Demand Skills (SQL, Excel, Python, Tableau, Power BI)  
-2. **Box Plot:** Salary Distribution by Job Title (Data Analyst, Director, Principal, etc.)  
-3. **Line Chart:** Monthly Data Analyst Job Postings Over Time  
-4. **Pie Chart:** Job Location Distribution (Remote vs On-site)
 
 ---
 
