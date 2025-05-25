@@ -42,6 +42,9 @@ The goal is to provide data-driven guidance for job seekers, recruiters, and mar
 
 **Insight:** SQL and Excel remain fundamental, but Python and visualization tools like Tableau and Power BI are highly valued.
 
+<img width="1090" alt="image" src="https://github.com/user-attachments/assets/968ece07-cae9-4428-aec5-f6a2c83a2264" />
+
+
 ---
 
 ### 2. Highest Paying Remote/Hybrid Data Analyst Roles (`Location = Anywhere`)
