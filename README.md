@@ -71,6 +71,40 @@ The goal is to provide data-driven guidance for job seekers, recruiters, and mar
 
   <img width="1089" alt="image" src="https://github.com/user-attachments/assets/78782cea-0481-475e-8f78-d2afd9b6249b" />
 
+  ---
+
+### 4. Skills & Job Trends
+
+- High-Paying Niche Skills
+
+Kafka ($129,999), PyTorch ($125,226), Perl ($124,686) are less commonly demanded (20–40 mentions) but offer high salaries.
+These are often specialized roles in machine learning, legacy systems, or stream processing.
+
+- Balanced Popular Skills
+
+Airflow (71 jobs, $116,387), Scala (59 jobs, $115,480), Pyspark (49 jobs, $114,058) offer a good balance between demand and pay.
+These skills are commonly used in big data pipelines and ETL workflows.
+
+ - Very High Demand, Competitive Salary
+
+Snowflake (241 jobs), Spark (187 jobs), Hadoop (140 jobs) — extremely high demand and strong compensation (~$110K+).
+These technologies are core to modern data platforms, making them highly employable.
+
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/c34687f7-a5cc-4e78-bcbe-6a0f6bf8300a" />
+
+### 5. Skills in High Demand but Below-Average Salary
+The following chart and table show skills that are frequently required in Data Analyst roles but have an average salary lower than the overall average ($93,876). This can indicate either:
+
+Commoditized skills (commonly expected, lower pay),
+Or baseline tools that are not differentiators in compensation.
+Key Observations:
+
+Excel is the most in-demand skill but offers a salary significantly below average.
+Tools like Power BI, SAS, and SPSS show high demand but modest compensation.
+Visualization and reporting tools dominate this list.
+
+<img width="1023" alt="image" src="https://github.com/user-attachments/assets/d95a3455-dce3-4058-8a57-5cc2100a56c6" />
+
 
 ---
 
