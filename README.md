@@ -1,6 +1,5 @@
 # Data Analyst Job Market Analysis
 
-![Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
 
 *Professional analysis of Data Analyst job postings: skill demand, salary insights, and hiring trends.*
 
